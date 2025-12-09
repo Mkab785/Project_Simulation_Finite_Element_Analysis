@@ -37,7 +37,7 @@ The solution demonstrates expertise in numerical methods and scientific computin
 
 ## 💻 Languages & Availability
 
-The identical algorithm is provided in two core languages of scientific computing, showcasing versatility:
+The original implementation was developed in MATLAB, and was subsequently translated to Python to demonstrate language flexibility and adaptability to engineering environments. The Python version also allows for easier integration into modern data science workflows and simplified visualization capabilities.
 
 | Language | File | Key Numerical Libraries |
 | :--- | :--- | :--- |
